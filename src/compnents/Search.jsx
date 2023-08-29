@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import { BiSearchAlt, BiLocationPlus } from "react-icons/Bi"
+import { BiSearchAlt, BiLocationPlus } from "react-icons/bi"
 import { useSearch } from '../hooks/useSearch';
 
 function Search() {
